@@ -26,8 +26,8 @@ h2{text-decoration: underline;}
 .comments{text-align:left 50px;}
 
 #header{text-shadow: 4px 4px rgb(188, 188, 175);
-    background-color:white);
-text-align: center; padding:30px; color: rgb(19, 128, 224);
+    background-color:white;
+text-align: center; padding:30px; margin-bottom:30px; rgb(19, 128, 224);
 background:linear-gradient(orange,white,green)}
 
 .fa-youtube{color:red; padding:5px}
